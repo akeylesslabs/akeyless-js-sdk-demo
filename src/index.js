@@ -6,7 +6,7 @@ import * as serviceWorker from './serviceWorker';
 const AkeylessVaultApi = require('akeyless_vault_api/src/com.akeyless.api_gateway.swagger');
 
 export const apiInstance = new AkeylessVaultApi.DefaultApi();
-// apiInstance.apiClient.basePath = 'http://**.***.*.**:***';
+// apiInstance.apiClient.basePath = 'http://***.***.***.***:****';
 
 
 ReactDOM.render(

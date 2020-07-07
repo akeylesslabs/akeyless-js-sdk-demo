@@ -4,8 +4,7 @@ import './App.css';
 import {apiInstance} from "./index";
 
 const accessId = ""; // String | Access ID
-const opts = {
-};
+const opts = {};
 
 const listItemsOpts = {
     'type': ['static-secret', 'dynamic-secret'], // String | The item types list of the requested items. In case it is empty, all types of items will be returned. options- [key, static-secret, dynamic-secret]
