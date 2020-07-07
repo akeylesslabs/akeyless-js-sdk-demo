@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import {apiInstance} from "./index";
 
-const accessId = "p-16daopsmc51f"; // String | Access ID
+const accessId = ""; // String | Access ID
 const opts = {
 };
 
