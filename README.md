@@ -6,7 +6,7 @@ JS SDK local installation steps
 1. Clone that repo `https://github.com/akeylesslabs/akeyless-javascript-sdk` - this is a package that implements all AKEYLESS JS SDK
 2. `cd akeyless-javascript-sdk`
 3. `npm install` (in case of XCODE error - skip them)
-4. `npm build`
+4. `npm run build`
 5. `npm link`
 
 Integration of the JS SDK with demo project
